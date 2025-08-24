@@ -65,7 +65,7 @@ serve .
 
 ## ✍️ Author
 
-Ali Khezri — [GitHub](https://github.com/ali-khezri)
+Ali Khezri — [GitHub](https://github.com/ali-khezri) | [LinkedIn](https://www.linkedin.com/in/ali-khezri)
 
 ---
 
