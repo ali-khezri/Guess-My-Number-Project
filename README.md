@@ -25,7 +25,7 @@ guess-my-number/
 ## 🛠 Built with
 
 * HTML5 (semantic structure)
-* CSS3 (responsive layout and retro game-style typography)
+* CSS3 (retro game-style typography)
 * Vanilla JavaScript (game logic, DOM manipulation)
 * Google Font: `Press Start 2P`
 
